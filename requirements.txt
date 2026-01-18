@@ -4,3 +4,4 @@ openai~=1.72.0
 mistralai~=0.4.2
 python-dotenv~=1.0.1
 ipykernel~=6.29.5
+cryptography~=42.0.0
